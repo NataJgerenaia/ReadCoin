@@ -1,0 +1,70 @@
+h1{
+    font-size: 2em;
+    color:black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.logo {
+    width: 60px;
+}
+.logo-name {
+    display: flex;
+    align-items: center;
+    width: 40%;
+}
+.nav-bar {
+    font-size: 1.3em;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 60%;
+}
+header {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#sign-up{
+    background-color: rgb(231, 148, 241);
+    color: rgb(0, 0, 0);
+    border-color: none;
+    border-radius: 10px;
+    border: none;
+    width: 100px;
+    height: 50px;
+    font-size: 0.8em;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+main {
+     display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 50px;
+}
+.installation-button{
+    background-color: rgb(223, 158, 97);
+    border: none;
+    width: 200px;
+    height: 60px;
+    font-size: 1.5em;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    border-radius: 10px;
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.make-money {
+    font-size: 4em;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.para {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
